@@ -1,4 +1,4 @@
-The RMarkdown will explore 3 topics in the analysis of discrete response:
+# This RMarkdown will explore 3 topics in the analysis of discrete response
 
 1. Confidence intervals for the parameter of a binomial distribution
 
