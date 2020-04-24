@@ -1133,3 +1133,5 @@ print(vcov(mod.mul))
 ```
 
 From the matrix above, all values are highly similar to each other up to the second decimal point. Therefore, we've also reproduced the co-variance matrix.
+
+*This work was done as part of the W271 - Statistical Methods for Discrete Response, Time Series, and Panel Data course under the U.C. Berkeley Master of Information and Data Science program.
