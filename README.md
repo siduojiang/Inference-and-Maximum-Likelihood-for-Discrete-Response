@@ -11,3 +11,7 @@ Logistic regression is a commonly used classfier in machine learning. Here, rath
 3. Implementation of MLE for Multinomial Regression
 
 Finally, we will implement maximum likelihood estimation (MLE) with multinomial regression. MLE is an important concept that is used for many parameter estimation procedures, and the theoretical outline presented, as well as MLE calculation code, can be generalized any generalized linear model regression problem where the model parameters are a function of a set of collected observables.
+
+
+Data is provided by Chris Bilder, as part of his textbook: Analysis of Categorical Data with R
+http://www.chrisbilder.com/categorical/programs_and_data.html
